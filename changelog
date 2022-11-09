@@ -5,13 +5,13 @@
             "romtype": "Beta",
             "number": "1",
             "id": "2022-05-01-pa-sapphire-beta",
-            "info": "Pocket lock\n
-                     3 finger swipe screenshot\n
-                     Face-based auto-rotate settings\n
-                     Custom vibration patterns\n
-                     Screen off gestures\n
-                     Adaptive playback (smart pause)",
-            "info_brief": "</br>This update adds new features, stability improvements, as well as fixes critical bugs. You can find more information about this update by tapping below or visiting <b>paranoidandroid.co/changelog<b/>"
+            "info": "<br>Pocket lock
+                     <br>3 finger swipe screenshot
+                     <br>Face-based auto-rotate settings
+                     <br>Custom vibration patterns
+                     <br>Screen off gestures
+                     <br>Adaptive playback (smart pause)",
+            "info_brief": "<br><br>This update adds new features, stability improvements, as well as fixes critical bugs. You can find more information about this update by tapping below or visiting <b>paranoidandroid.co/changelog<b/><br><br>"
         }
     ]
 }
