@@ -5,15 +5,17 @@
             "romtype": "Beta",
             "number": "1",
             "id": "2022-05-01-pa-sapphire-beta",
-            "info": "<b><br>Pocket lock
-                     <br>3 finger swipe screenshot
-                     <br>Face-based auto-rotate settings
-                     <br>Custom vibration patterns
-                     <br>Screen off gestures
-                     <br>Adaptive playback (smart pause)",
+            "info": "<u><b>Major Updates</b></u>:<br>
+                     <li>Timo-bile
+                     <li>Jake from statefarm
+                     <li>Mr Mesquito
+                     <li>Anaylysis
+                     <li>Actual OCD
+                     <li>Hernia
+                     <li>Vishual Studio",
             "info_brief": "<b>Topaz 1 Testing Build</b>
-            <br><br>This update adds new features, stability improvements, as well as fixes critical bugs. 
-            Learn more at <a href=\"https://paranoidandroid.co\">paranoidandroid.co/changelog</a><br><br>"
+            <br><br>This update adds stability improvements, as well as fixes critical bugs. 
+            Learn more at <a href=\"https://paranoidandroid.co/changelog">paranoidandroid.co/changelog</a><br>"
         }
     ]
 }
