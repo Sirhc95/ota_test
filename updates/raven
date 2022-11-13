@@ -13,7 +13,8 @@
       "romtype": "Beta",
       "number": "2",
       "version": "Topaz", 
-      "android_version": "13"
+      "android_version": "13",
+      "android_spl": "2022-11-05"
     },
     {
       "date": "2022-11-010",
