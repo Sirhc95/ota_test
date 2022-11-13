@@ -4,7 +4,7 @@
       "date": "2022-13-11",
       "datetime": "1668319676",
       "filename": "aospa-topaz-unofficial-raven-20221113",
-      "url": "https://objects.githubusercontent.com/github-production-release-asset-2e65be/231038767/e2612175-9bc7-4625-9449-17f3d9f89c19?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20221113%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20221113T061312Z&X-Amz-Expires=300&X-Amz-Signature=18843a22ae22a6bf94c5e302ffdb6f9cfe8cdc3cfaffe6df25d2bed4edca48c8&X-Amz-SignedHeaders=host&actor_id=16567768&key_id=0&repo_id=231038767&response-content-disposition=attachment%3B%20filename%3Daospa-topaz-unofficial-raven-20221113.zip&response-content-type=application%2Foctet-stream",
+      "url": "https://github.com/Sirhc95/ota_test/releases/download/p6pro-1.0/aospa-topaz-unofficial-raven-20221113.zip",
       "fastboot": "https://github.com/AOSPA/android_device_google_raviole/releases/download/topaz-beta-1.1-raven/aospa-topaz-beta-1.1-raven-20221015-image.zip",
       "mirror": "https://drive.google.com/drive/folders/1hx-QcDfeLZQMwbwenCH2H6L9kSXQfHO0?usp=sharing",
       "telegram": "https://t.me/paranoidaospa/85",
