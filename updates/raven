@@ -1,8 +1,8 @@
 {
   "updates": [
     {
-      "date": "2022-13-11",
-      "datetime": "1668319676",
+      "date": "2022-10-15",
+      "datetime": "1665792222",
       "filename": "aospa-topaz-unofficial-raven-20221113.zip",
       "url": "https://github.com/Sirhc95/ota_test/releases/download/p6pro-1.0/aospa-topaz-unofficial-raven-20221115.zip",
       "fastboot": "https://github.com/AOSPA/android_device_google_raviole/releases/download/topaz-beta-1.1-raven/aospa-topaz-beta-1.1-raven-20221015-image.zip",
@@ -10,15 +10,16 @@
       "telegram": "https://t.me/paranoidaospa/85",
       "id": "6c6abdd08056c295d08cf1dfa7993be375ec6f5994040a8e72f150ab799adcc2",
       "size": "1707222231",
-      "romtype": "Beta",
-      "number": "2",
+      "build_type": "Beta",
+      "version_code": "2",
       "version": "Topaz", 
       "android_version": "13",
-      "android_spl": "2022-11-05"
+      "android_spl": "2022-10-05",
+      "changelog_device": "Fixed issue where the wallpaper couldn't be changed, Fixed access to onboard theming"
     },
     {
-      "date": "2022-11-010",
-      "datetime": "1667978169",
+      "date": "2022-10-15",
+      "datetime": "1665792222",
       "filename": "aospa-topaz-beta-1.1-raven-20221015.zip",
       "url": "https://github.com/AOSPA/android_device_google_raviole/releases/download/topaz-beta-1.1-raven/aospa-topaz-beta-1.1-raven-20221015.zip",
       "fastboot": "https://github.com/AOSPA/android_device_google_raviole/releases/download/topaz-beta-1.1-raven/aospa-topaz-beta-1.1-raven-20221015-image.zip",
@@ -26,10 +27,12 @@
       "telegram": "https://t.me/paranoidaospa/85",
       "id": "6c6abdd08056c295d08cf1dfa7993be375ec6f5994040a8e72f150ab799adcc2",
       "size": "1658741945",
-      "romtype": "Beta",
-      "number": "1.1",
+      "build_type": "Beta",
+      "version_code": "1.1",
       "version": "Topaz", 
-      "android_version": "13"
+      "android_version": "13",
+      "android_spl": "2022-10-05",
+      "changelog_device": "Fixed issue where the wallpaper couldn't be changed, Fixed access to onboard theming"
     },
     {
       "date": "2022-10-15",
@@ -41,10 +44,12 @@
       "telegram": "https://t.me/paranoidaospa/79",
       "id": "5f423ec117d24c4b5199ff305d8e5233ad496ca0d1b3ee0628417160e7a76065",
       "size": "1658741945",
-      "romtype": "Beta",
-      "number": "1",
+      "build_type": "Beta",
+      "version_code": "1",
       "version": "Topaz", 
-      "android_version": "13"
+      "android_version": "13",
+      "android_spl": "2022-10-05",
+      "changelog_device": "Initial beta release"
     }
    ]
 }
