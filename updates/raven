@@ -14,7 +14,7 @@
       "version_code": "2",
       "version": "Topaz", 
       "android_version": "13",
-      "android_spl": "2022-10-05",
+      "android_spl": "2022-11-05",
       "changelog_device": "Fixed issue where the wallpaper couldn't be changed, Fixed access to onboard theming"
     },
     {
